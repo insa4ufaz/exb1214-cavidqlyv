@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "Execution avec bonjour",
+      "setup": "javac -cp \".\" Palindrome.java Principal.java",
+      "run": "java -cp \".\" Principal bonjour",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "Execution avec tarhrat",
+      "setup": "javac -cp \".\" Palindrome.java Principal.java",
+      "run": "java -cp \".\" Principal tarhrat",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    }
+  ]
+}
