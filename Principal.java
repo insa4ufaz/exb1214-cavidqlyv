@@ -13,5 +13,5 @@ public class Principal
 			System.out.println("Input : " + motAverifier + " >>> Output : " + isPalindrome );		
 			System.out.println("----------------------------------------------------");		
 		}
-
+   }
 }
